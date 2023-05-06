@@ -1,6 +1,7 @@
 # Genaerate Password with Count down for 30 seconds
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+[Video-Sat-May-06-2023-16-16-01.webm](https://user-images.githubusercontent.com/53033289/236619648-c65fc53c-cd3d-45a1-a99e-022050134f33.webm)
 
 ## Development server
 
