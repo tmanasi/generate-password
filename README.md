@@ -1,4 +1,4 @@
-# Vertiv
+# Genaerate Password with Count down for 30 seconds
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
